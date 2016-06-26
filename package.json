@@ -1,6 +1,6 @@
 {
   "name": "easy-mocha",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Define and execute you tests easily just with one JSON object.",
   "main": "index.js",
   "scripts": {
