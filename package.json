@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/nomi-ramzan/easy-mocha#readme",
   "devDependencies": {
+    "assert": "^1.4.1",
     "lodash": "^4.13.1"
   }
 }
